@@ -13,10 +13,10 @@ class App extends Component {
               <Link to="/">Home</Link>
             </li>
             <li>
-              <Link to="/About">About</Link>
+              <Link to="/about">About</Link>
             </li>
             <li>
-              <Link to="/Topics">Topics</Link>
+              <Link to="/topics">Topics</Link>
             </li>
           </ul>
 
